@@ -1,2 +1,2 @@
 # HTML
-Explicando HTML, projeto DIO
+Criando um pág Web somente com HTML, projeto DIO.
